@@ -1,0 +1,8 @@
+streamlit
+pandas
+pandas-profiling
+numpy
+prophet
+altair
+holidays
+plotly
