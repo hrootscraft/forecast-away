@@ -160,7 +160,7 @@ if page == "Application":
 
   st.title('Forecast Away 🧙🏻')
   st.write(
-    'This app enables you to generate time series forecast withouth any dependencies.'
+    'This app enables you to generate time series forecast without any dependencies.'
   )
   st.markdown(
     """The forecasting library used is **[Prophet](https://facebook.github.io/prophet/)**."""
