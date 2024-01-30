@@ -28,7 +28,7 @@ Once the data is loaded, the app allow the configuration of multiple parameters:
 - **Holidays**: add holidays to the model. Available countries at the moment: Italy, Spain, France, United States, Germany, Ukraine.
 - **Hyperparameters**: Change the scale of the changepoints or holidays. It impacts the flexibility of the model. 
 
-#### 3. Fit the model and predict future
+#### 3. Fit the model and predict future 
 
 - Initialize the model with the settings configured above  (Fit)
 - Generate forecast (Predict): will plot forecast with standard Prophet charts
